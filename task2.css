@@ -1,0 +1,21 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+body{
+    border: 2px solid black;
+    padding-left: 80px;
+    margin-left: 100px;
+    height: 680px;
+    width: 400px;
+}
+body h3{
+    color:red ;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+}
+body p{
+    font-size: small;
+}
